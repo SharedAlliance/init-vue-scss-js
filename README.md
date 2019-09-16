@@ -1,6 +1,23 @@
 # init-vue-scss-js
 Vue-cli 初始化，删除不必要的文件。自动化处理文件，节省开发者时间
 
+### 拉取初始化文件
+
+```
+  git clone git@github.com:SharedAlliance/init-vue-scss-js.git
+```
+
+### 进入初始化文件
+
+```
+  cd ./init-vue-scss-js
+```
+
+### 运行脚本init.sh
+
+```bash
+  ./init.sh
+```
 
 ### 下载 js-cookie
 
