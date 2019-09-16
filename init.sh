@@ -14,7 +14,7 @@ echo "copy 脚本文件 vue.config.js 成功"
 if read -t 5 -p "是否删除 init-vue-scss-js 文件?（yes/No）" website
 then
     echo "删除 init-vue-scss-js 文件"
-#    rm -rf ./init-vue-scss-js
+    rm -rf ./init-vue-scss-js
 else
     echo "保留 init-vue-scss-js 文件"
 fi
